@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/scenes/Start.unity
+    guid: 4b6345ddeb6ff3e4cb9614bd65286a15
+  - enabled: 1
+    path: Assets/scenes/Laberinto.unity
+    guid: f3b29866cdec0a44ead53e7995c68632
+  - enabled: 1
+    path: Assets/scenes/Laberinto_lvl2.unity
+    guid: e41d86e55c02f434cbc0cd40b7772984
+  - enabled: 1
+    path: Assets/scenes/GameOver.unity
+    guid: cf2b3635d15143e4cb36b454da375461
+  - enabled: 1
+    path: Assets/scenes/GameOver2.unity
+    guid: 57741be15e0866c43aaaddf9f7e01c55
+  - enabled: 1
+    path: Assets/scenes/NextLevel.unity
+    guid: 24ddeeb045d1b0244af6f75e467103c0
+  - enabled: 1
+    path: Assets/scenes/NextLevel2.unity
+    guid: b3cb4353393cdc44989486071807e652
+  - enabled: 1
+    path: Assets/scenes/Scoreboard.unity
+    guid: 22934be1dda6b344287cb7fb3724313f
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
